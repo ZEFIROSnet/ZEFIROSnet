@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew
 - 👀 I’m interested in snippets
 - 🌱 I’m currently learning PHP
-- 📫 You can contact me at web@zef.gr
+- 📫 You can contact me at hello@zefiros.net
 
 <!---
 ZEFIROSnet/ZEFIROSnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
