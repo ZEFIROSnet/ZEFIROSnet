@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew
-- 👀 I’m interested in snippets
-- 🌱 I’m currently learning PHP
+- 👀 Shamelessly vibe coding
+- 🌱 Growing
 - 📫 You can contact me at hello@zefiros.net
 
 <!---
